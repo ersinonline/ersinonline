@@ -1,33 +1,25 @@
-### Hi there! 👋
+### Merhaba! 👋
+Merhaba! Ben Ersin Çelik, dijital oyun tasarımı üzerine eğitim alan ve bu alanda kendini geliştiren bir öğrenciyim. Aynı zamanda, web tasarım ve programlama alanında temel bilgiler ediniyorum. Uzun vadeli hedefim, insanların tüm işlemlerini tek bir yerden yapabileceği bir Superapp oluşturarak kendi startup'ımı kurmak.
 
-My name is **Nolan Lwin**.
+### Neler Yapıyorum?
+🛠 Wix platformunda basit ve işlevsel web siteleri oluşturuyorum.
+👨‍💻 Bu süreçte HTML, CSS ve Java gibi temel programlama dillerini öğreniyorum.
+🎮 Dijital oyun geliştirme becerilerimi ilerletiyor ve bu alanda yaratıcı projeler üzerinde çalışıyorum.
+📱 İnsanların hayatını kolaylaştıracak bir Superapp geliştirme fikri üzerinde çalışıyorum. Bu uygulama, tüm günlük işlemleri tek bir yerden yönetebilme imkanı sunacak.
 
-- 🎓 I'm pursuing a bachelor's degree, majoring in Computer Science and minoring in Business Analytics, at Bucknell University.
-- 🚀 I'm interning at Stifel Financial Corp. as a Software Developer Intern at their headquarter in St. Louis, MO for this 2024 summer.
-- 👨‍💻 I worked on the machine learning model that grades the severity of Bell's palsy at Geisinger Healthcare last 2023 summer.
-- 🖥 I'm currently learning machine learning, image processing, and software engineering.
-- 💼 I'm also looking for an internship related to SWE or AI/ML for next 2025 summer.
-- ❓ Ask me anything about CS, entrepreneurship, and consulting.
-- 📬 Reach out to me via Email: [nl020@bucknell.edu](nl020@bucknell.edu) or LinkedIn: [Nolan Lwin](https://www.linkedin.com/in/naing-oo-lwin-nolan/)
+### Hedeflerim:
+🚀 Programlama yeteneklerimi daha da geliştirmek ve öğrendiklerimi projelerime entegre etmek.
+🎯 Dijital oyun tasarımı alanında profesyonel bir kariyer yapmak.
+💡 Superapp fikrimi hayata geçirerek bir startup kurmak ve bu alanda yenilikçi çözümler sunmak.
+Öğrenmeye ve yeniliklere açık bir girişimci olarak, her gün hedeflerime bir adım daha yaklaşmak için çalışıyorum. Eğer aynı ilgi alanlarını paylaşıyorsanız veya bu yolculukta bana katılmak isterseniz, bağlantı kurmaktan memnuniyet duyarım! 
 
-### Skills
+### Yeteneklerim
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./img/python.svg" width="36" height="36" alt="Python" /></a> &nbsp;
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="./img/java.svg" width="36" height="36" alt="Java" /></a> &nbsp;
-<a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="./img/swift.svg" width="36" height="36" alt="Swift" /></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./img/html-5.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./img/css-3.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./img/javascript.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./img/react.svg" width="36" height="36" alt="React" /></a> &nbsp;
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="./img/opencv.svg" width="36" height="36" alt="OpenCV" /></a> &nbsp;
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="./img/numpy.svg" width="36" height="36" alt="NumPy" /></a> &nbsp;
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="./img/pandas.svg" width="36" height="36" alt="Pandas" /></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./img/html-5.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
 
-
-### Socials
-
+### Sosyal Medya
 <p align="left"> 
-<a href="mailto: nl020@bucknell.edu" target="_blank" rel="noreferrer"><img src="./img/gmail.svg" width="40" height="40" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/naing-oo-lwin-nolan/" target="_blank" rel="noreferrer"><img src="./img/linkedin.svg" width="40" height="40" padding-top= "100px" /></a> 
+<a href="mailto: clk.ersinnnn@gmail.com" target="_blank" rel="noreferrer"><img src="./img/gmail.svg" width="40" height="40" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/ersin-%C3%A7elik/" target="_blank" rel="noreferrer"><img src="./img/linkedin.svg" width="40" height="40" padding-top= "100px" /></a> 
 </p>
