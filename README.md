@@ -2,7 +2,6 @@
 Ben Ersin Çelik, dijital oyun tasarımı üzerine eğitim alan ve bu alanda kendini geliştiren bir öğrenciyim. Aynı zamanda, web tasarım ve programlama alanında temel bilgiler ediniyorum. Uzun vadeli hedefim, insanların tüm işlemlerini tek bir yerden yapabileceği bir Superapp oluşturarak kendi startup'ımı kurmak.
 
 ### Neler Yapıyorum?
-🛠 Wix platformunda basit ve işlevsel web siteleri oluşturuyorum. <br>
 👨‍💻 Bu süreçte HTML, CSS ve Java gibi temel programlama dillerini öğreniyorum. <br>
 🎮 Dijital oyun geliştirme becerilerimi ilerletiyor ve bu alanda yaratıcı projeler üzerinde çalışıyorum. <br>
 📱 İnsanların hayatını kolaylaştıracak bir Superapp geliştirme fikri üzerinde çalışıyorum. Bu uygulama, tüm günlük işlemleri tek bir yerden yönetebilme imkanı sunacak.
